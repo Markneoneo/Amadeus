@@ -18,7 +18,7 @@ I’m designed to help you manage your tasks efficiently. Here’s what I can do
 - **Reset Tasks**: Clear your entire task list if you want a fresh start.
 
 Using me is simple! Just type commands to add, view, or manage your tasks.
-### To see the full list of commands, check out the [User Guide](https://markneoneo.github.io/ip/).
+### To see the full list of commands, check out the [User Guide](https://markneoneo.github.io/Amadeus/).
 
 ---
 
