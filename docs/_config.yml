@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I’m here to help you manage your tasks and stay organized. 
   Whether it’s deadlines, events, or simple to-dos, I’ll make sure you never miss a thing. 
   Let’s make this timeline a productive one!
-baseurl: "/ip" # the subpath of your site, e.g. /blog
+baseurl: "/Amadeus" # the subpath of your site, e.g. /blog
 url: "https://markneoneo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Markneoneo
 github_username:  Markneoneo
